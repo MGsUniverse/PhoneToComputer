@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "950182484675",
+    "firebase_url": "https://phone-to-computer-remote-msg.firebaseio.com",
+    "project_id": "phone-to-computer-remote-msg",
+    "storage_bucket": "phone-to-computer-remote-msg.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:950182484675:android:4feb2618a44bc154fd6076",
+        "android_client_info": {
+          "package_name": "com.fago.myfirstandroidapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "950182484675-j3amikjosea7a91avudjlfiesbjdslrs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHr_WsrwffS2UIx04ebKgabU-NrdDD7U4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "950182484675-j3amikjosea7a91avudjlfiesbjdslrs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
