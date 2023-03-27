@@ -19,5 +19,8 @@ There are two directories in the repo
      + Click the "command" button and enter a command in the field that shows up (Will execute the command on the computer's terminal and show the output)
      + Click the "shutdown computer" button (Will shutdown the computer)
      
+## Video
+https://www.youtube.com/watch?v=YyuzDnjq2Bg&feature=youtu.be
+
 ## Credits
 By Matteo Giovanni
